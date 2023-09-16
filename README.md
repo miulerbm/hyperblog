@@ -12,3 +12,5 @@ Un blog increíble para el curso de Git y GitHub de Platzi.
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Hecho por el gran team Platzi.
+* Disponible en todas las plataformas.
+* Accesible para adultos y niños.
