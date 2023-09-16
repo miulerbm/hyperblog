@@ -11,3 +11,4 @@ Un blog increíble para el curso de Git y GitHub de Platzi.
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
+* Hecho por el gran team Platzi.
